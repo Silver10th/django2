@@ -25,7 +25,7 @@ SECRET_KEY = '1^1uh!t&ctjfc4u9s=&nmlo4pl8c-2wz@p_an_ephtr(*xcvq('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Silver10th.pythonanywhere.com']
 
 TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
 
